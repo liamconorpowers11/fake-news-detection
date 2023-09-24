@@ -1,3 +1,5 @@
+Task: LSTM for Fake News Detection
+
 Packages: numpy, pandas, NLTK, gensim, tensorflow
 
 Model: LSTM
